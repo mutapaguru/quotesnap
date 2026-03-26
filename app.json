@@ -29,8 +29,11 @@
       "expo-secure-store"
     ],
     "extra": {
+      "router": {
+        "origin": false
+      },
       "eas": {
-        "projectId": "your-eas-project-id"
+        "projectId": "0bc97ee4-d600-4b82-aa4e-3a43b49d831c"
       }
     }
   }
